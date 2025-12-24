@@ -51,9 +51,11 @@ Alrec the Mage with an intel of 13 (+1 Intel) bonus
 		3 Cantrips (Two plus his freebie)
 		5 spells (2 freebies Detect Magic, Read Magic plus 3 from his intel modifier)
 			He can cast 2 spells a day, but they cant be duplicates (you cant use bonus spell to double up)
-	At second level
+
+At second level
 		He adds spells with a 70% success rate 
-		He can now case 3 spells a day. If he chooses, he can use both non-bonus slots for same spell
+			He can now case 3 spells a day. If he chooses, he can use both non bonus slots for same spell
+
 
 
 # **Casting is a full round action**

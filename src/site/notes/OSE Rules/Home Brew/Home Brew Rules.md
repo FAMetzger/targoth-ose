@@ -2,14 +2,6 @@
 {"dg-publish":true,"permalink":"/ose-rules/home-brew/home-brew-rules/"}
 ---
 
-**Guiding Principle**
-The guiding principle behind game play is this- If it is reasonable, there will be no skill check/roll—the action succeeds. If it is impossible, there will be no skill check/roll—the action fails. It is only the hard/improbable that requires a roll.
-
-Example
-	Gorge, the Barbarian, wants to climb a 10ft rope--- he climbs the rope.  
-	Zek, the wizard, with a strength of 7- his rope climb requires a check unless modifications are made to help him out.
-	Bill, the thief, wants to parkour off a wall and summersault over an orc—no.
-
 
 ### **Homebrew Rules/Interpretations**
 [[OSE Rules/Home Brew/Nets, Whips, and Bolas\|Nets, Whips, and Bolas]]

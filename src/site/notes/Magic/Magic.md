@@ -14,7 +14,7 @@ Additional Mage Options
 
 Additional Cleric Options
 	 [[Carcass Crawler/Carcass Crawler 4\|Carcass Crawler 4]], pg. 10-18
-	[[Carcass Crawler/MISC/Carcass Crawler 6\|Carcass Crawler 6]], pg 10-15
+	[[Carcass Crawler/Carcass Crawler 6\|Carcass Crawler 6]], pg 10-15
 
 Druid and Illusionist
 	[[Magic/OSE Advanced Magic Illusion and Druid\|OSE Advanced Magic Illusion and Druid]]

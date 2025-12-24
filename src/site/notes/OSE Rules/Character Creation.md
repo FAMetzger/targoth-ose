@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/ose-rules/character-creation/"}
 ---
 
+
+# **Character Creation**
+
 [[Character Sheet\|Character Sheet]]
+
 
 # Attribute Development
 

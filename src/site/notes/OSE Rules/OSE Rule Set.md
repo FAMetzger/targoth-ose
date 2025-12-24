@@ -3,7 +3,6 @@
 ---
 
 [[OSE Rules/Character Creation\|Character Creation]]
-
 [[Carcass Crawler/Carcass Crawlers\|Carcass Crawlers]]
 [[OSE Rules/Home Brew/Home Brew Rules\|Home Brew Rules]]
 [[Equipment/Equipment\|Equipment]]

@@ -6,7 +6,7 @@
 # **The World Targoth**
 
 
-![Pasted image 20251223221639.png](/img/user/Pasted%20image%2020251223221639.png)
+![Pasted image 20251223221639.png](/img/user/Tarogoth/Pasted%20image%2020251223221639.png)
 
 # **Game Rules** [[OSE Rules/OSE Rule Set\|OSE Rule Set]]
 

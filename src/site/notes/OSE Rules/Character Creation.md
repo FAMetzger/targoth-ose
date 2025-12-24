@@ -12,7 +12,7 @@
 **Or**
 
 **Option 2**
-·         Consider the following preset attribute scores which can be moved around as you wish.
+·         Use one of preset attribute scores below which can be moved around as you wish.
 		o   18, 16, 10, 8, 4, 3
 		o   16, 14, 10, 9, 6, 5
 		o   12, 12, 10, 10, 9, 9
@@ -88,17 +88,17 @@ All have common, alignment, Number equal to Intel MOD [[OSE Rules/OSE Classic Ch
 # Weapon Proficiency 
 [[OSE Rules/OSE Advanced Characters\|OSE Advanced Characters]], pg 52
 
-###### **Initial Weapon Proficiency** (can use without penalty)
+**Initial Weapon Proficiency** (can use without penalty)
 - Martial – start with 4, gain 1 additional at 4th lvl and every 3 lvls after
 - Semi Martial- start with 3 gain 1 additional at 5th lvl and every 3 lvls after
 - Non-martial- start with 1 gain 1 additional at 6th lvl and every 5 lvls after
 
-###### **Non-Proficiency Penalty**
+**Non-Proficiency Penalty**
 - Martial= -2
 - Semi Martial= -3
 - Non-martial= -5
 
-###### **Weapon Specialization (Fighter Only)**
+**Weapon Specialization (Fighter Only)**
  Specialization – encumbers 2 proficiency slots, +1 to ATT/DAM
 
 
@@ -106,21 +106,22 @@ All have common, alignment, Number equal to Intel MOD [[OSE Rules/OSE Classic Ch
 
 [[OSE Rules/OSE Classic Characters\|OSE Classic Characters]], page 14
 
-###### **Law**: Lawful beings believe in truth and justice. To this end, they will follow
+**Law**: Lawful beings believe in truth and justice. To this end, they will follow
 laws and believe all things must adhere to order. Lawful beings also believe in
 sacrifice to a greater good and will choose the good of a larger group over the good
 of an individual.
 
-###### **Neutrality**: Neutral beings believe in a balance between the ideas of Law and
+**Neutrality**: Neutral beings believe in a balance between the ideas of Law and
 Chaos and, in their actions, tend to do what will serve themselves. They might
 commit good or evil acts in order to further their own ends and generally will not
 put others’ needs ahead of their own.
 
-###### **Chaos**: Chaotic beings are in direct opposition to Law. These beings should
+**Chaos**: Chaotic beings are in direct opposition to Law. These beings should
 seldom be trusted, for they tend to act in “evil” ways and are utterly selfish. Chaotic
 characters believe in chance and that there is no innate order to life.
 
-###### **Optional** (unless you are a divine caster, e.g, cleric)- Pick a deity, see [[Religion/Religion\|Religion]]
+**Optional** (unless you are a divine caster, e.g, cleric)- Pick a deity, see [[Religion/Religion\|Religion]]
+
 
 
 # Starting Wealth 

@@ -8,3 +8,4 @@
 [[Equipment/Equipment\|Equipment]]
 [[Magic/Magic\|Magic]]
 [[OSE Rules/Leveling\|Leveling]]
+[[Religion/Religion\|Religion]]

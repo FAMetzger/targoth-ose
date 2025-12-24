@@ -10,10 +10,10 @@ Character can search all adjacent squares net to him/her
 		Secrete Door Searching 
 		Loot Searching
 
-Company can designate a specific person to search for traps
-	Trap Searcher needs to specify what they are searching 
 
-Company can designate a specific person to search for secrete doors. 
+
+
+Company can designate a specific person to search for secrete doors. or traps 
 	Light search - must designate area
 	Heavy search - can roll for whole room 
 		 

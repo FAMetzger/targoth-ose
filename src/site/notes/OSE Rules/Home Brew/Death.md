@@ -15,4 +15,4 @@ Can stabilize/stop process with field dressing (one turn to apply)
 
 New Character
 	Comes in at the average XP of the company
-	 If greater than lvl 1 start with 210g 
+	 If greater than lvl 1 start with 220g 

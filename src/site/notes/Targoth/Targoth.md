@@ -7,7 +7,7 @@
 
 # **The World Targoth**
 
-![Pasted image 20251224232100.png](/img/user/Pasted%20image%2020251224232100.png)
+![Pasted image 20251224232100.png](/img/user/Targoth/MISC/Pasted%20image%2020251224232100.png)
 
 
 Targoth is an abject lesson in the dangers of mortals involving themselves too directly in matters divine. 
@@ -19,6 +19,8 @@ Around 2000 BF, after centuries of conflict and swings in fortunes, the follower
 Victory did not come without cost though for as the last link of the last chain was put into place, the crust of the world split open. Mountains boiled from the earth in some places while in others, seas swallowed the lowlands. The two great empires, fractured by the years of conflict and the cataclysmic end to the war, broke apart like poorly made brick.
 
 Thus, the long dark age of Targoth began, its people as fractured as its world, ruled by petty warlords and fighting for scraps to survive. Eventually city states and then kingdoms remerged, all but twisted, weak shadows of the Varduun and Solkara. Belief, too, began a slow climb from darkness as newer, and some say lesser, Deities, began to draw followers and gain power.
+
+[[Targoth/Locations/About Targoth\|About Targoth]]
 
 # **Game Rules** 
 

@@ -21,7 +21,7 @@
 [[Targoth/Locations/Stormgrid Chain\|Stormgrid Chain]]
 
 
-[[Bleeding Sands of Makspear\|Bleeding Sands of Makspear]]
+[[Targoth/Locations/Bleeding Sands of Makspear\|Bleeding Sands of Makspear]]
 
 
 

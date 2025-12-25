@@ -3,4 +3,4 @@
 ---
 
 
-[[Regions\|Regions]]
+[[Targoth/Locations/Regions\|Regions]]

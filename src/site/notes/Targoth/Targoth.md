@@ -3,10 +3,12 @@
 ---
 
 
+
+
 # **The World Targoth**
 
+![Pasted image 20251224232100.png](/img/user/Pasted%20image%2020251224232100.png)
 
-![Pasted image 20251223221639.png](/img/user/Targoth/Pasted%20image%2020251223221639.png)
 
 # **Game Rules** 
 

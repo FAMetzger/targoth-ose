@@ -10,6 +10,16 @@
 ![Pasted image 20251224232100.png](/img/user/Pasted%20image%2020251224232100.png)
 
 
+Targoth is an abject lesson in the dangers of mortals involving themselves too directly in matters divine. 
+
+Targoth was once a peaceful and prosperous world, ruled by two major powers, the Varduun and the Solkara. While both these grand kingdoms were content with balance of power, its people became ever more entangled in the ageless conflict between the first Gods, Tavros Everforge and Vorgath the Unmaker.
+
+Around 2000 BF, after centuries of conflict and swings in fortunes, the followers of Tavros stitched together an alliance of dwarf, elf, halfling, and human and drove Vorgath followers into their last, but greatest stronghold, Kar-Durath. Rumors tell of a siege lasting 500 years until the alliance, about to break, made one last desperate push into the stronghold. Vorgath’s forces were vanquished and the god himself, bound in chains forged by Tavros.
+
+Victory did not come without cost though for as the last link of the last chain was put into place, the crust of the world split open. Mountains boiled from the earth in some places while in others, seas swallowed the lowlands. The two great empires, fractured by the years of conflict and the cataclysmic end to the war, broke apart like poorly made brick.
+
+Thus, the long dark age of Targoth began, its people as fractured as its world, ruled by petty warlords and fighting for scraps to survive. Eventually city states and then kingdoms remerged, all but twisted, weak shadows of the Varduun and Solkara. Belief, too, began a slow climb from darkness as newer, and some say lesser, Deities, began to draw followers and gain power.
+
 # **Game Rules** 
 
 [[OSE Rules/OSE Rule Set\|OSE Rule Set]]

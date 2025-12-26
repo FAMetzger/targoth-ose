@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/ose-rules/character-creation/"}
 ---
 
-# Attribute Development
+# [[OSE Rules/Character Sheet\|Character Sheet]]
+
+
+
+# **Attribute Development**
 
 **Option 1**
 ·         Start by rolling down 4d6, pick top 3 die rolls, roll this x6

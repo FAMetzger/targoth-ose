@@ -14,4 +14,3 @@
 [[Targoth/Locations/Bleeding Sands of Makspear\|Bleeding Sands of Makspear]]
 
 
-[

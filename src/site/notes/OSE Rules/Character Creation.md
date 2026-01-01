@@ -69,7 +69,7 @@ Choose a class. Multi-classing is allowed. See Multiclass pg 53 in [[OSE Rules/O
 	Beastmaster[[Carcass Crawler/Carcass Crawler 3\|Carcass Crawler 3]]
 	Cleric [[OSE Rules/OSE Classic Characters\|OSE Classic Characters]]
 	Druid [[OSE Rules/OSE Advanced Characters\|OSE Advanced Characters]]
-	Drawf Runesmith [[Carcass Crawler/Carcass Crawler 6\|Carcass Crawler 6]]
+	Dwarf Runesmith [[Carcass Crawler/Carcass Crawler 6\|Carcass Crawler 6]]
 	Dwarf Brew master [[Carcass Crawler/Carcass Crawler 6\|Carcass Crawler 6]]
 	Fighter [[OSE Rules/OSE Classic Characters\|OSE Classic Characters]]
 	Illusionist [[OSE Rules/OSE Advanced Characters\|OSE Advanced Characters]]

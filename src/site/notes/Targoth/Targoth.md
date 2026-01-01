@@ -10,7 +10,7 @@
 ![Pasted image 20251224232100.png](/img/user/Targoth/MISC/Pasted%20image%2020251224232100.png)
 
 
-Targoth is an abject lesson in the dangers of mortals involving themselves too directly in matters divine. 
+Targoth is an object lesson in the dangers of mortals involving themselves too directly in matters divine. 
 
 Targoth was once a peaceful and prosperous world, ruled by two major powers, the Varduun and the Solkara. While both these grand kingdoms were content with balance of power, its people became ever more entangled in the ageless conflict between the first Gods, Tavros Everforge and Vorgath the Unmaker.
 

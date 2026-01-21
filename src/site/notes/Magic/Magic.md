@@ -11,6 +11,7 @@ Magic User and Cleric
 
 Additional Mage Options
 	[[Carcass Crawler/Carcass Crawler 4\|Carcass Crawler 4]] pg 18-20
+	[[The Madder Hag\|The Madder Hag]] issue 8
 
 Additional Cleric Options
 	 [[Carcass Crawler/Carcass Crawler 4\|Carcass Crawler 4]], pg. 10-18

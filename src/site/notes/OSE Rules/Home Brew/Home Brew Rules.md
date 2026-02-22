@@ -17,6 +17,7 @@
 [[OSE Rules/Home Brew/Level - Energy Drain\|Level - Energy Drain]]
 [[OSE Rules/Home Brew/Poison\|Poison]]
 [[OSE Rules/Home Brew/Searching\|Searching]]
+[[OSE Rules/Rules Discussion\|Rules Discussion]]
 
 
 

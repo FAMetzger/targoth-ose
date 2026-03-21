@@ -6,8 +6,5 @@ Unless target is one size smaller than ally AND line of sight is blocked, target
 
 Roll attack
 
-Make Dex check
+If miss,  attack roll is applied to character in line of shot (AC - Dex- Sheild)
 
-                Pass- Attack applies to enemy target
-
-                Fail- Attack applies to Ally (if more than one, random determination

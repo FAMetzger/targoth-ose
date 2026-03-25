@@ -20,8 +20,8 @@ Standard movement rates, include passive perception (chance to hear for sound, c
 Unwilling creature/combatant
     Cannot move through an unwilling creature
     Tactical movement can move around a hostile creature at half speed. 
-    Once engaged/in melee range movement away from
-        Move by will be at discretion of DM (you will know outcome before you try). Factors that will be considered are things like surprise, initiative order, the number of combatants already on the monster, etc.
+    Once engaged/in melee range movement away from creature-
+        Will be at discretion of DM (you will know outcome before you try). Factors that will be considered are things like surprise, initiative order, the number of combatants already on the monster, etc.
          Can move back at half speed no penalty to AC
          Can move away full speed (run away) (loss of shield, loss of DEX bonus)
 

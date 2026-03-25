@@ -94,10 +94,17 @@ Example: Alric, 1st level mage tries casting 3rd lvl Fireball
 			He has 16 Intel, penalty is +2 (he needs a 14 or lower to successfully use scroll)
 	
 # Learning Spells 
-Percent change of learning new spell (e.g., copying it in book) is based on intel modifier (pg 60 [[OSE Rules/OSE Advanced Characters\|OSE Advanced Characters]]  ). 
+When spellcaster levels, they can pick one spell (at appropriate level) and add to spell book.
+	No learning check or additional cost (rationale you are learning spell under the direct tutelage of a higher level wizard)
 
-You get one chance per level to level spell.  
+Adding spells to spell book (from captured spell books/scrolls) 
+	Percent change of learning new spell (e.g., copying it in book) is based on intel modifier (pg 60 [[OSE Rules/OSE Advanced Characters\|OSE Advanced Characters]] ).
+	 
+	You get one change per level to learn the spell
 
+	 Cost is 100gp/1day per level of spell.
+	
+	If using scroll, scroll is consumed, even if you fail learning check 
 
 # **Special Topics**
 

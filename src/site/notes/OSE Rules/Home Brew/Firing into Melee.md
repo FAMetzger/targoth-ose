@@ -4,7 +4,6 @@
 
 Unless target is one size smaller than ally AND line of sight is blocked, target gets no cover.
 
-Roll attack
+Critical miss (1 on a d20) attack hits character in line of shot.
 
-If miss,  attack roll is applied to character in line of shot (AC - Dex- Sheild)
 

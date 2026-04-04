@@ -39,6 +39,7 @@ Cyne and Wolfa will offer a small cottage outside the Steen's walls, in thanks
 
 Empok Zha- Broker for Gullygug (Net Trade. Gullygog make for 3pg, willing to sell for 7, give Empok 1gp per net)
 
+Alrec and Sven- offer to join if you pay expenses, do not demand a share. (cost in Steen is 2.8gp/week or 11g2s/month). Contract ends Emberfall 30, 328)  Paid for Harevestmere 
 
 **Cost of Living (cost 50/50 food/lodging)**
 Commoner, per week (stay in common room. Common meals 2xday)- 

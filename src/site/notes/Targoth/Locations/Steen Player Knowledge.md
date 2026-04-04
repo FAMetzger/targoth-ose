@@ -26,14 +26,18 @@
 
 ###### **Reputation** (started -5)
 Nobility: N/A
-Garrison: -0
+Garrison: -0 (6pg Guard Drink fund)
 Merchants: +3
 Townfolk: -1
+Church- +2
 
 
 **Other:** 
 Agreement with Merchants for squat rights/storage in local warehouse. 
+
 Cyne and Wolfa will offer a small cottage outside the Steen's walls, in thanks
+
+Empok Zha- Broker for Gullygug (Net Trade. Gullygog make for 3pg, willing to sell for 7, give Empok 1gp per net)
 
 
 **Cost of Living (cost 50/50 food/lodging)**

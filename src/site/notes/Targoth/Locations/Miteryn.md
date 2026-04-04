@@ -37,7 +37,7 @@ The realm borders the Wildlands and the people of Miteryn have  complicated rela
 
 
 
-**Dutchy Merrik** – Predominantly human.
+[[Dutchy Merrik\|Dutchy Merrik]]– Predominantly human.
 	Main city – Marsakirk- port town
 	Border Stronghold of [[Targoth/Locations/Steen Player Knowledge\|Steen Player Knowledge]]
 	 

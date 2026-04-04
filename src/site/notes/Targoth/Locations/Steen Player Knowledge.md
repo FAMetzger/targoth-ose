@@ -26,10 +26,21 @@
 
 ###### **Reputation** (started -5)
 Nobility: N/A
-Garrison: -2
-Merchants: +0
-Townfolk: -3
+Garrison: -0
+Merchants: +3
+Townfolk: -1
 
 
 **Other:** 
 Agreement with Merchants for squat rights/storage in local warehouse. 
+Cyne and Wolfa will offer a small cottage outside the Steen's walls, in thanks
+
+
+**Cost of Living (cost 50/50 food/lodging)**
+Commoner, per week (stay in common room. Common meals 2xday)- 
+ Day 4s
+Week 2.8g 
+Living Fine (Private Room, fine meals 2x day) 
+Day 2g
+Week 14g
+

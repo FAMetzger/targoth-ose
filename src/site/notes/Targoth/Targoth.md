@@ -21,6 +21,8 @@ Victory did not come without cost though for as the last link of the last chain 
 Thus, the long dark age of Targoth began, its people as fractured as its world, ruled by petty warlords and fighting for scraps to survive. Eventually city states and then kingdoms remerged, all but twisted, weak shadows of the Varduun and Solkara. Belief, too, began a slow climb from darkness as newer, and some say lesser, Deities, began to draw followers and gain power.
 
 [[Targoth/Locations/About Targoth\|About Targoth]]
+[[Calender\|Calender]]
+
 
 # **Game Rules** 
 

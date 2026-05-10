@@ -15,6 +15,7 @@
 **Oth Skyblaze-** Merchant. Owner/Operator of Swords and Sundries
 **Hoe Freeleg**- Owner/Operator Bottomless Tavern 
 **Hakareet Jadeforged**- Owner/Operator Opulent Opal 
+Curate Graval Mov- Mitra Church
 
 
 
@@ -25,11 +26,13 @@
 
 
 # **Reputation** (started -5)
-Nobility: N/A
-Garrison: -0 (6pg Guard Drink fund)
-Merchants: +3 (10% off mundane items)
-Townfolk: -1
-Church- +2
+**Nobility**: N/A
+**Garrison:** +1 reaction with military (Guard Drink Fund, successful return from caves)
+**Merchants:** +4 reaction (max) with merchants. Unless reputation takes a hit,they will permanently offer you common goods at 10% discount.
+**Townfolk:** +1 reaction with common folk (fish trade, merchant help, successful
+return from caves)
+**Clergy**: +2 orphanage donation, fish trade
+**Zha-** Thalia (+2), Talro (+2)
 
 
 # **Other:** 
@@ -48,6 +51,26 @@ Week 2.8g
 Living Fine (Private Room, fine meals 2x day) 
 Day 2g
 Week 14g
+
+
+# **Training**
+
+**Casters-**
+Can train either with the Silk Weaver (about a days journey north of town) or
+Heardu- Jewler's Clerk- Apprentice in Steen's Underground Wizard Guild-- The Arcanum Wardens
+
+**Rangers**
+Orin Yew, elf ranger, lives outside of town
+
+**Martial (Fighter, Barbarian, Paladin)**
+Merchants will allow one of their 2nd level guards to do training, this will cost you 135g instead of 150g
+
+**Rogue-** 
+Tony the Twitch will offer training.
+
+**Cleric Types-**
+                Whispers in Mud- Gullygug shaman
+                Curate Graval Mov (Steen Cleric, worships Mitra)
 
 # **Initial Hook**
 The Kingdom of Miteryn has fallen on hard times. A series of droughts and natural disasters have weakened the realm and run coffers dry. Smelling weakness and sensing opportunity, Duke Ro-Zeh Felkum has all but declared open revolt against Miteryn’s ruling family, the Turvolun, refusing to pay taxes or contribute levees to aid in the growing number of border skirmishes and outbreaks of outright banditry that have begun to plague the Kingdom. King Rimzes Turvolun, sensing the impeding storm of likeminded Duchies and internal opportunists, has called what banners he can to the capital, planning to bring his fractured kingdom in line with the sword, or at least the threat of it. While he may yet retain the crown, his consolidation of martial power has emptied out strongholds and keeps across the land of all but the most meagre of skeletal crews. Once proud strongholds, now garrisoned by a few capable captains running roughshod over the young and infirm. While these places may stand through strength of stone, the small folk outside the wall have been left to fend for themselves. Wishing to aid the common folk or sensing an opportunity for wealth and riches in the chaos to come, you have journeyed to Castle Steen to take the first step in making your mark on this world.

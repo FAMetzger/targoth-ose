@@ -45,3 +45,7 @@ When the Shattered Ice Sea freezes thick enough to bear armies, the tribes enact
     
 
 This unity lasts only as long as the ice holds. When spring thaws the sea, the Winter King’s authority ends—often violently.
+
+Player Knowledge
+Rumor [[Clan Ice Wrym\|Clan Ice Wrym]] seeks Khagan in Fall of 327
+Seers say Ice Moot of 327-328 will be long. 

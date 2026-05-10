@@ -51,6 +51,7 @@ The realm borders the Wildlands and the people of Miteryn have  complicated rela
 
 **Dutchy of Elvenwood**- Predominantly elf.
 	Main city Willow Forrest.
+	[[Amableed\|Amableed]]
 
 
 

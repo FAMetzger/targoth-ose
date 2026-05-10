@@ -23,6 +23,7 @@ Curate Graval Mov- Mitra Church
 **Bottomless Tankard**- Tavern
 **Swords and Sundries**
 **Opulent Opal** arrangement with Jadeforge, gems and jewelry exchanged at 85% of value
+Bank- will charge 3% a month for storage/safe keeping
 
 
 # **Reputation** (started -5)

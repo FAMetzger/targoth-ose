@@ -84,18 +84,21 @@ Choose a class. Multi-classing is allowed. See Multiclass pg 53 in [[OSE Rules/O
 # Determine Languages 
 All have common, alignment, Number equal to Intel MOD [[OSE Rules/OSE Classic Characters\|OSE Classic Characters]], page 15.
 
+Can Learn [[Additional Languages\|Additional Languages]] 
+
 
 # Determine Secondary Skills
 [[OSE Rules/OSE Advanced Characters\|OSE Advanced Characters]], pg 52. 
 
+Can Learn Additional [[Non-weapon Proficiencies\|Non-weapon Proficiencies]]
 
 # Weapon Proficiency 
 [[OSE Rules/OSE Advanced Characters\|OSE Advanced Characters]], pg 52
 
 **Initial Weapon Proficiency** (can use without penalty)
-- Martial – start with 4, gain 1 additional at 4th lvl and every 3 lvls after
-- Semi Martial- start with 3 gain 1 additional at 5th lvl and every 3 lvls after
-- Non-martial- start with 1 gain 1 additional at 6th lvl and every 5 lvls after
+- Martial – start with 4
+- Semi Martial- start with 3
+- Non-martial- start with 1
 
 **Non-Proficiency Penalty**
 - Martial= -2
@@ -105,7 +108,7 @@ All have common, alignment, Number equal to Intel MOD [[OSE Rules/OSE Classic Ch
 **Weapon Specialization (Fighter Only)**
  Specialization – encumbers 2 proficiency slots, +1 to ATT/DAM
 
-
+Can gain [[Additional Weapon Proficiency\|Additional Weapon Proficiency]]
 # **Alignment**
 
 [[OSE Rules/OSE Classic Characters\|OSE Classic Characters]], page 14

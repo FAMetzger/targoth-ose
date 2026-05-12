@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/additional-weapon-proficiency/"}
 ---
 
+### **Additional Weapon Proficiency**
+
 Characters improve their skill with individual weapons through regular and meaningful use.
 
 Each weapon tracks its own training independently, and only the selected weapons may advance in rank.

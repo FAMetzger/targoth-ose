@@ -6,7 +6,7 @@
 
 [[Equipment/Armor\|Armor]]
 
-[[Equipment/Weapons (coin weight)\|Weapons (coin weight)]]
+[[Equipment/Weapons Cost and Coin Weight\|Weapons Cost and Coin Weight]]
 
 [[Equipment/Ammunition\|Ammunition]]
 

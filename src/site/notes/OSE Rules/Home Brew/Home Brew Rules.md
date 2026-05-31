@@ -4,10 +4,11 @@
 
 
 ### **Homebrew Rules/Interpretations**
-[[OSE Rules/Home Brew/Nets, Whips, and Bolas\|Nets, Whips, and Bolas]]
+[[OSE Rules/Home Brew/Nets, Whips, Bolas and Held-Grabbed\|Nets, Whips, Bolas and Held-Grabbed]]
 [[OSE Rules/Home Brew/Paladin\|Paladin]]
 [[OSE Rules/Home Brew/Downtime\|Downtime]]
 [[OSE Rules/Home Brew/Death\|Death]]
+[[OSE Rules/Home Brew/Drowning\|Drowning]]
 [[OSE Rules/Home Brew/Rest, Healing, and Time\|Rest, Healing, and Time]]
 [[OSE Rules/Home Brew/Firing into Melee\|Firing into Melee]]
 [[OSE Rules/Home Brew/Movement\|Movement]]

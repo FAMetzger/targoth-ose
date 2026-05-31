@@ -49,6 +49,10 @@ Empok Zha- Broker for Gullygug (Net Trade. Gullygog make for 3pg, willing to sel
 
 Alrec and Sven- offer to join if you pay expenses, do not demand a share. (cost in Steen is 2.8gp/week or 11g2s/month). Contract ends Emberfall 30, 328)  Paid for Harevestmere. Alrec and Sven offered and agree to join the company each get half share
 
+Dowd's Orphanage-
+	Merchants have agreed to sell material at cost
+	Company has donated 600gp to cost
+
 # **Cost of Living (cost 50/50 food/lodging)**
 Commoner, per week (stay in common room. Common meals 2xday)- 
  Day 4s

@@ -109,3 +109,5 @@ Adding spells to spell book (from captured spell books/scrolls)
 # **Special Topics**
 
 [[Magic/Home Brew- Sleep\|Home Brew- Sleep]]
+[[Rituals\|Rituals]]
+

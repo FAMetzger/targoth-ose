@@ -14,24 +14,24 @@ At their highest level they can be used to kill foes from afar, bind peoples wil
 
 #### **Size**
 
-                ##### **Small**- extend a spell effect, effect limited to single 
+                 **Small**- extend a spell effect, effect limited to single 
                 person/item
 
-                ##### **Medium-** damage at a distance, local effect (quarter mile) 
+                 **Medium-** damage at a distance, local effect (quarter mile) 
                 radius, bind creature, make permanent spell effect
 
-		##### **Large-** regional effect (up to 100 mile radius), kill at a 
+		 **Large-** regional effect (up to 100 mile radius), kill at a 
 		distance, suborn free will,  bind powerful creature, compel to answer
 
 #### **Requirements**
 
-                ##### **Earth-** needs to be tied to ritual target or effect.
+                 **Earth-** needs to be tied to ritual target or effect.
 
-                ##### **Air-** needs to be tied to ritual target or effect
+                 **Air-** needs to be tied to ritual target or effect
 
                 **Water** needs to be tied to ritual target or effect
 
-                ##### **Soul- Constitution points.**
+              **Soul- Constitution points.**
 
 			Use of personal constitution. Can pour points into ritual over time. 
 			Constitution loss  Can be given over time. If use your own 
@@ -44,9 +44,9 @@ At their highest level they can be used to kill foes from afar, bind peoples wil
 			Medium between 21-100
 			Large between 101 to ???
 
-                ##### **Specific Focus**- Something that represents/tied to ritual effect.
+                **Specific Focus**- Something that represents/tied to ritual effect.
 
-		##### **Ritual Instructions**  these can be found or developed through 
+		 **Ritual Instructions**  these can be found or developed through 
 		research
 
 

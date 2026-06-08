@@ -19,6 +19,9 @@
 Curate Graval Mov- Mitra Church
 Otto Smalls- Head of local Thieves Guild
 Ven Birdsok- Cleric Tavros, offering to help clear out evil in caves
+Wolfa- Caravan Owner
+Morg Sidesplitter- Caravan Owner
+Pinch- local merchant
 
 
 
@@ -45,7 +48,7 @@ Agreement with Merchants for squat rights/storage in local warehouse.
 
 Cyne and Wolfa will offer a small cottage outside the Steen's walls, in thanks
 
-Empok Zha- Broker for Gullygug (Net Trade. Gullygog make for 3pg, willing to sell for 7, give Empok 1gp per net)
+Empok Zha- Broker for Gullygug Net Trade.  Whips 10gp standard. Gullygug make theirs for 7gp, willing to sell for 12, give Empok 1gp per net)
 
 Alrec and Sven- offer to join if you pay expenses, do not demand a share. (cost in Steen is 2.8gp/week or 11g2s/month). Contract ends Emberfall 30, 328)  Paid for Harevestmere. Alrec and Sven offered and agree to join the company each get half share
 

@@ -10,14 +10,14 @@ Can attack if you reach melee distance at end of full movement, e.g., Thrag with
 Dash- can move 50% faster in a round 
      Cannot be difficult terrain 
      Cannot move through or by unwilling creature
-     Cannot move though willing creature
+     Can move though willing creature
      Cannot combine with any form of attack, spell, or ability. 
 
 You can move through a willing creature (NPC, PC) at half speed.
 
 Standard movement rates, include passive perception (chance to hear for sound, check for traps, etc.). Rationale- most of time you are moving at 30-40ft a turn (10 min)--  40ft is hardly any actual distance. What are you spending your time doing? Looking around and poking at shit. 
 
-Unwilling creature/combatant
+##### **Unwilling creature/combatant**
     Cannot move through an unwilling creature
     Tactical movement can move around a hostile creature at half speed. 
     Once engaged/in melee range movement away from creature-
@@ -25,3 +25,7 @@ Unwilling creature/combatant
          Can move back at half speed no penalty to AC
          Can move away full speed (run away) (loss of shield, loss of DEX bonus)
 
+##### **Full Party Retreat**
+Needs to be declared before Initiative is rolled
+Moves play into group initiative
+Company decides who leads, what is being carried, who is rearguard. 

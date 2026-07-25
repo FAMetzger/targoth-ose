@@ -22,25 +22,27 @@ Ven Birdsok- Cleric Tavros, offering to help clear out evil in caves
 Wolfa- Caravan Owner
 Morg Sidesplitter- Caravan Owner
 Pinch- local merchant
-
+Belk Swifthammer- Blacksmith Owner/Operator Swifthammer Armory
 
 
 # **Locations**
 **Bottomless Tankard**- Tavern
 **Swords and Sundries**
 **Opulent Opal** arrangement with Jadeforge, gems and jewelry exchanged at 85% of value
-Bank- will charge 3% a month for storage/safe keeping
+**Bank-** will charge 3% a month for storage/safe keeping
+**Swifthammer Armory**
 
 
 # **Reputation** (started -5)
 **Nobility**: N/A
-**Garrison:** +1 reaction with military (Guard Drink Fund, successful return from caves)
-**Merchants:** +4 reaction (max) with merchants. Unless reputation takes a hit,they will permanently offer you common goods at 10% discount.
-**Townfolk:** +1 reaction with common folk (fish trade, merchant help, successful
+**Garrison:** +2 reaction with military (Guard Drink Fund, successful return from caves, Sewer Mission)
+**Merchants:** +4 reaction (max) with merchants. Unless reputation takes a hit, they will permanently offer you common goods at 10% discount.
+**Townfolk:** +1 reaction with common folk (fish trade, merchant help, successful)
 return from caves)
 **Clergy**: +2 orphanage donation, fish trade
 **Zha-** Thalia (-1), Talro (-1)
-Thieves Guild +1
+**Thieves Guild** +1
+Gullygug- +2 (Lizardmen)
 
 
 # **Other:** 
@@ -52,7 +54,7 @@ Empok Zha- Broker for Gullygug Net Trade.  Whips 10gp standard. Gullygug make th
 
 Alrec and Sven- offer to join if you pay expenses, do not demand a share. (cost in Steen is 2.8gp/week or 11g2s/month). Contract ends Emberfall 30, 328)  Paid for Harevestmere. Alrec and Sven offered and agree to join the company each get half share
 
-Dowd's Orphanage-
+[[Dowd's Orphanage\|Dowd's Orphanage]]-
 	Merchants have agreed to sell material at cost
 	Company has donated 600gp to cost
 

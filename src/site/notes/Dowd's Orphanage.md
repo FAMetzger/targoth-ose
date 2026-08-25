@@ -24,23 +24,23 @@
 
     10 years old- 2
 
-            Hun
+            Hun- Stables
 
-            El (female)
+            El (female)- Stables
 
     11 years old- 1
 
-            Biben  
+            Biben - New Pissboy Bottomless Tankard
 
     13 years old- 1
 
-            Kiram  
+            Kiram - Kitchen Botomless Tankard
 
     14 years old- 2
 
-            Ruca
+            Ruca- Kitchen- Mid-levlel merchant
 
-            Calmi (female)  
+            Calmi (female)- Kitchen Corporal  
 
   
 
@@ -59,11 +59,11 @@
 
   
 
-|   |   |   |
-|---|---|---|
-|Start||650g|
-|Starting (Harvestmere 327)|- 47g9c|602g9s1c|
-|Graveveil 327|-47g9c|555g8s2c|
-||||
-||||
-||||
+|                            |         |          |
+| -------------------------- | ------- | -------- |
+| Start                      |         | 650g     |
+| Starting (Harvestmere 327) | - 47g9c | 602g9s1c |
+| Graveveil 327              | -47g9c  | 555g8s2c |
+|                            |         |          |
+|                            |         |          |
+|                            |         |          |

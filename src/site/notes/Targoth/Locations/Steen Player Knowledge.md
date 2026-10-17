@@ -31,6 +31,7 @@ Belk Swifthammer- Blacksmith Owner/Operator Swifthammer Armory
 **Opulent Opal** arrangement with Jadeforge, gems and jewelry exchanged at 85% of value
 **Bank-** will charge 3% a month for storage/safe keeping
 **Swifthammer Armory**
+[[Dowd's Orphanage\|Dowd's Orphanage]]
 
 
 # **Reputation** (started -5)

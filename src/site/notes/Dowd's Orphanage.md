@@ -3,12 +3,14 @@
 ---
 
 **Dowd's Orphanage**
+Hounds of Annubis
+Sigil Golden Jackal
 
-**Head Master: Tongram Common Dust (4gp/month)**
+**Head Master: Tongram Dust (4gp/month)**
 
-**Teacher: Gon Forebringer (3g/month)**
+**Teacher: Gina Forebringer (3g/month)**
 
-**25 Children (Age 10 is "name day" and they can work)**
+**24 Children (Age 10 is "name day" and they can work)**
 
     4 years old- 3
 
@@ -32,15 +34,15 @@
 
             Biben - New Pissboy Bottomless Tankard
 
-    13 years old- 1
+    12 years old- 1
 
             Kiram - Kitchen Botomless Tankard
 
-    14 years old- 2
+    13 years old- 1
 
-            Ruca- Kitchen- Mid-levlel merchant
+            Ruca- Kitchen- Mid-levl merchant
 
-            Calmi (female)- Kitchen Corporal  
+     
 
   
 
@@ -50,20 +52,23 @@
 | --------------------------------------------- | ------------------ | ------------------ |
 | Item                                          | Remaining          | Cost/<br><br>month |
 | Building inside Steen (40gp/month, 300g cost) | 2660g              | 40g                |
-| Headmaster                                    |                    | 4g                 |
-| Teacher                                       |                    | 3g                 |
-| Food (3copper/day per kid)                    | 25 kids            | 1g5c               |
-| Work 1c day for kids over 10                  | 6 kids 10 and over | -6c                |
+| Headmaster (Tongram Dust )                    |                    | 4g                 |
+| Teacher (Mistress Gina Forebringer)           |                    | 3g                 |
+| Food (3copper/day per kid)                    | 24 kids            | 21g6c              |
+| Work 1c day for kids over 10                  | 5 kids 10 and over | 1g2s               |
 |                                               |                    |                    |
-| Total/Month                                   |                    | 47g9c              |
+|                                               |                    |                    |
+| Total/Month                                   |                    | 68g8s6c            |
+|                                               |                    |                    |
 
   
 
-|                            |         |          |
-| -------------------------- | ------- | -------- |
-| Start                      |         | 650g     |
-| Starting (Harvestmere 327) | - 47g9c | 602g9s1c |
-| Graveveil 327              | -47g9c  | 555g8s2c |
-|                            |         |          |
-|                            |         |          |
-|                            |         |          |
+|                            |           |          |
+| -------------------------- | --------- | -------- |
+| Start                      |           | 650g     |
+| Starting (Harvestmere 327) | - 68g8s6c | 581g1s4c |
+| Graveveil 327              | -68g8s6c  | 512g2s8c |
+|                            |           |          |
+|                            |           |          |
+|                            |           |          |
+|                            |           |          |

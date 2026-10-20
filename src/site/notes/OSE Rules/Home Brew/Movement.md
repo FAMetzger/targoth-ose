@@ -7,12 +7,11 @@ Difficult Terrain (heavy rocky, sandy, steep, mud, heavy vegetation, through an 
 
 Can attack if you reach melee distance at end of full movement, e.g., Thrag with movement of 30 can move 30ft and attack
 
-Dash- can move 100% faster in a round 
+Dash- can move 150% faster in a round 
 	Cannot move through or by unwilling creature
      Can move though willing creature
      Cannot combine with any form of attack, spell, or ability. 
 
-You can move through a willing creature (NPC, PC) at half speed.
 
 Standard movement rates, include passive perception (chance to hear for sound, check for traps, etc.). Rationale- most of time you are moving at 30-40ft a turn (10 min)--  40ft is hardly any actual distance. What are you spending your time doing? Looking around and poking at shit. 
 
@@ -28,3 +27,15 @@ Once engaged/in melee range movement away from creature-
 Needs to be declared before Initiative is rolled
 Moves play into group initiative
 Company decides who leads, what is being carried, who is rearguard. 
+
+##### **Charge**
+On Foot
+		- Move at least 20ft (cant go through friendlies, enemies, or over difficult terrain)
+		- +2 to Hit
+		- -1AC
+		- Braced attack hits first. 
+Mounted
+		- Move at least 40 (cant go through friendlies, enemies, or over difficult terrain)
+		- Double Damage
+		- Braced attack hits first. 
+		

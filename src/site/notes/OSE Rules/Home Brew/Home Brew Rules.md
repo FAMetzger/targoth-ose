@@ -20,6 +20,7 @@
 [[OSE Rules/Home Brew/Searching\|Searching]]
 [[OSE Rules/Rules Discussion\|Rules Discussion]]
 [[Critical Hit and Critical Miss\|Critical Hit and Critical Miss]]
+[[Blind\|Blind]]
 
 
 
